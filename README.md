@@ -13,7 +13,6 @@ Delicious is a full-stack food delivery web application where users can browse r
 - 🔐 User authentication (signup/login)
 - 👤 Admin dashboard to manage orders and menu
 
----
 
 ## 🛠️ Tech Stack
 
